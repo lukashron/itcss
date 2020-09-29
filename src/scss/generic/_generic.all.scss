@@ -1,0 +1,10 @@
+//
+// Generic for all HTML elements
+//
+
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: inherit;
+  box-sizing: inherit;
+}
